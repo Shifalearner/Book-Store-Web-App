@@ -1,0 +1,91 @@
+
+[
+    {
+        "id": 1,
+        "name": "Storytime Magic",
+        "title" : "Embark on magical adventures and heartwarming tales in this enchanting collection of stories",
+        "price" : 0,
+        "category" : "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1716901322~exp=1716904922~hmac=40e9d93afa60513a93293f746e41076fcc0cdec75f8a5f6e11fb419c540a6ba6&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Laugh Out Loud",
+        "title" : "Get ready to laugh out loud with this hilarious compilation of witty and entertaining comedic tales",
+        "price" : 0,
+        "category" : "Free",
+        "image":"https://img.freepik.com/free-photo/scene-with-kids-playing-outdoors-nature_23-2151486514.jpg?t=st=1716922832~exp=1716926432~hmac=8bd66a0c4e6bdd763cc2e481d6c8b11b89420dd78d50ce78f2cc3365473ae920&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Game Changers",
+        "title" : "Dive into the world of sportsmanship and triumph with this thrilling compilation of athletic feats and victories",
+        "price" : 0,
+        "category" : "Free",
+        "image":"https://img.freepik.com/premium-photo/watercolor-painting-man-playing-football-soccer_791234-286.jpg?w=740"
+    },
+    {
+        "id": 4,
+        "name": "Melody Masters",
+        "title" : "Experience the rhythm of life through captivating tales and behind-the-scenes stories from the world of music",
+        "price" : 300,
+        "category" : "Music",
+        "image":"https://img.freepik.com/free-vector/acoustic-guitar-concept-illustration_114360-16958.jpg?t=st=1716903362~exp=1716906962~hmac=ef094d1b9e399d6ca2539e9c088c70027a7167494233e4b1477fcde64d9794bb&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Flavors Unveiled",
+        "title" : "Satisfy your taste buds and ignite your passion for cooking with this delectable assortment of recipes",
+        "price" : 0,
+        "category" : "Free",
+        "image":"https://img.freepik.com/premium-vector/green-salad-fresh-vegetables-salad-bowl-object-isolated-background_194708-577.jpg?w=740"
+    },
+    {
+        "id": 6,
+        "name": "Explore & Roam",
+        "title" : "Take a journey across borders and cultures, with tales that inspire wanderlust and adventure",
+        "price" : 450,
+        "category" : "Travel",
+        "image":"https://img.freepik.com/free-vector/travel-doodle-set_1284-5528.jpg?t=st=1716903569~exp=1716907169~hmac=fe2b56de0e8bea9c1c12dc7d5afa01ff8555cfa005814dc544ad832d0cebea2d&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Grow & Thrive",
+        "title" : "Find practical wisdom and guidance to empower personal growth and navigate life's challenges",
+        "price" : 0,
+        "category" : "Free",
+        "image":"https://img.freepik.com/free-psd/positive-mindset-template-psd-quote-social-media-post-mindset-is-everything_53876-138820.jpg?t=st=1716903684~exp=1716907284~hmac=388a926970cb579cbe82382fd312f191b57bb2734508df8aee7e5d4d11a617e9&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Future Frontiers",
+        "title" : "Escape into worlds where magic reigns and epic quests await, inviting readers on fantastical adventures",
+        "price" : 400,
+        "category" : "Fiction",
+        "image":"https://img.freepik.com/premium-photo/astronaut-cosmonaut-discovery-new-worlds-galaxies-fantasy-portal-far-universe-astronaut-space-exploration-gateway-another-universe-3d-render_91497-8286.jpg?w=740"
+    },
+    {
+        "id": 9,
+        "name": "Life Stories",
+        "title" : "Discover the remarkable stories of inspiring individuals who have left an indelible mark on history and society",
+        "price" : 550,
+        "category" : "Biography",
+        "image":"https://img.freepik.com/free-photo/3d-rendering-pen-ai-generated_23-2150695527.jpg?t=st=1716902821~exp=1716906421~hmac=2245610fdcea45254c95505e57ded03ac87e99c6ee97eece88b0a1bedc39c1cb&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Dark Secrets",
+        "title" : "Plunge into heart-pounding suspense and gripping mysteries that keep you on the edge of your seat until the end",
+        "price" : 450,
+        "category" : "Thriller",
+        "image":"https://img.freepik.com/free-photo/dark-fantasy-scene_23-2151136239.jpg?t=st=1716902762~exp=1716906362~hmac=816d8991919c21ad16818f57d4329c3480051cdf22879873429f1a8fe3956190&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Realm Quests",
+        "title" : "Step into enchanting realms where magic reigns supreme and epic quests unfold, captivating readers of all ages",
+        "price" : 510,
+        "category" : "Fantasy",
+        "image":"https://img.freepik.com/free-vector/book-open-with-fairytale-mermaid-with-princess-unicorn-warrior_24640-46175.jpg?t=st=1716902537~exp=1716906137~hmac=c6d9f9b4d4cdb73bdf78c2477b648fe3ecb9f6e9d0259cc74682e27234ed9c76&w=740"
+    }
+]
