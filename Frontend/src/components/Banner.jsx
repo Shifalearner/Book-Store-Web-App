@@ -21,7 +21,7 @@ const Banner = () => {
            </label>
            
         </div>
-        <button className="mt-6 btn bg-blue-600 text-white hover:bg-blue-800 ">Submit</button>
+        <button className="mt-6 btn bg-blue-600 text-white hover:bg-blue-800 ">Get Started</button>
       </div>
       <div className="order-1 w-full md:w-1/2 ">
         <img src={banner} className="w-92 h-92 dark:bg-slate-900 dark:text-white" alt="" />
